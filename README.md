@@ -1,7 +1,7 @@
 # Hi there, I'm blox! 👋
 [![wakatime](https://wakatime.com/badge/user/b2abe11d-3a19-4b51-8873-fb054f1233d9.svg)](https://wakatime.com/@b2abe11d-3a19-4b51-8873-fb054f1233d9)
 ## 🚀 About Me
-Nickname: blox.
+Nickname: blox.\
 Sex: Male.
 
 ## Spotify Playing 🎧
