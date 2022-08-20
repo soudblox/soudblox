@@ -8,7 +8,7 @@ Sex: Male.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f53py733i8iocgkvovugcos6d&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🔗 Links
-[![discord-icon](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)][https://discord.com/users/748529326621982732]
+[![discord-icon](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]][https://discord.com/users/748529326621982732]
 
 <!--
 **soudblox/soudblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
