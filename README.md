@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm blox! 👋
+[![wakatime](https://wakatime.com/badge/user/b2abe11d-3a19-4b51-8873-fb054f1233d9.svg)](https://wakatime.com/@b2abe11d-3a19-4b51-8873-fb054f1233d9)
 
 <!--
 **soudblox/soudblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
