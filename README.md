@@ -10,6 +10,17 @@ Sex: Male.
 ## 🔗 Links
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/748529326621982732)
 
+## 🛠 Skills
+
+### Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **soudblox/soudblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
