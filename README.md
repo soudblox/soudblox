@@ -20,7 +20,7 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#213](https://github.com/serpapi/public-roadmap/issues/213) in [serpapi/public-roadmap](https://github.com/serpapi/public-roadmap)
+1. 💪 Opened PR [#3281](https://github.com/is-a-dev/register/pull/3281) in [is-a-dev/register](https://github.com/is-a-dev/register)
 2. ❗️ Opened issue [#200](https://github.com/serpapi/public-roadmap/issues/200) in [serpapi/public-roadmap](https://github.com/serpapi/public-roadmap)
 <!--END_SECTION:activity-->
 
