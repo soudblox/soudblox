@@ -20,7 +20,7 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1683](https://github.com/pedroslopez/whatsapp-web.js/issues/1683) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+1. 💪 Opened PR [#1688](https://github.com/pedroslopez/whatsapp-web.js/pull/1688) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 2. 🗣 Commented on [#1683](https://github.com/pedroslopez/whatsapp-web.js/issues/1683) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
