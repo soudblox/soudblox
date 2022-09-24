@@ -20,8 +20,8 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/pull/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
-2. 🗣 Commented on [#1688](https://github.com/pedroslopez/whatsapp-web.js/issues/1688) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+1. 🗣 Commented on [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/issues/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
+2. 💪 Opened PR [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/pull/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
