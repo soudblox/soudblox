@@ -20,7 +20,7 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/issues/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
+1. ❗️ Opened issue [#400](https://github.com/serpapi/public-roadmap/issues/400) in [serpapi/public-roadmap](https://github.com/serpapi/public-roadmap)
 2. 💪 Opened PR [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/pull/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
 <!--END_SECTION:activity-->
 
