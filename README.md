@@ -20,8 +20,8 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#400](https://github.com/serpapi/public-roadmap/issues/400) in [serpapi/public-roadmap](https://github.com/serpapi/public-roadmap)
-2. 💪 Opened PR [#12](https://github.com/DanBot-Hosting/pterodactyl-eggs/pull/12) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
+1. 🗣 Commented on [#53](https://github.com/JustOptimize/return-ShowHiddenChannels/issues/53) in [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
+2. 🗣 Commented on [#50](https://github.com/JustOptimize/return-ShowHiddenChannels/issues/50) in [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
