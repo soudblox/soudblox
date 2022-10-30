@@ -68,14 +68,13 @@ Sunday       49 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               29 mins             █████████████████████████   99.77% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -94,7 +93,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/soudblox/soudblox/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:24:04 UTC
+ Last Updated on 30/10/2022 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
