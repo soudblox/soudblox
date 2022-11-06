@@ -20,7 +20,7 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/JustOptimize/return-ShowHiddenChannels/issues/53) in [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
+1. 💪 Opened PR [#15](https://github.com/DanBot-Hosting/pterodactyl-eggs/pull/15) in [DanBot-Hosting/pterodactyl-eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
 2. 🗣 Commented on [#50](https://github.com/JustOptimize/return-ShowHiddenChannels/issues/50) in [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
 <!--END_SECTION:activity-->
 
