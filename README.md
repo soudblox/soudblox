@@ -39,6 +39,45 @@ Sex: Male.
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    59 commits     ██████░░░░░░░░░░░░░░░░░░░   27.19% 
+🌆 Daytime    86 commits     ██████████░░░░░░░░░░░░░░░   39.63% 
+🌃 Evening    71 commits     ████████░░░░░░░░░░░░░░░░░   32.72% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   22.12% 
+Tuesday      27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+Saturday     65 commits     ███████░░░░░░░░░░░░░░░░░░   29.95% 
+Sunday       49 commits     █████░░░░░░░░░░░░░░░░░░░░   22.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -54,7 +93,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/soudblox/soudblox/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:22:29 UTC
+ Last Updated on 09/11/2022 18:44:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
