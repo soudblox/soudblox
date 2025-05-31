@@ -20,8 +20,8 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Temni](https://github.com/soudblox/nichdant-revanced/releases/tag/5) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
-2. 🗣 Commented on [#50](https://github.com/JustOptimize/return-ShowHiddenChannels/issues/50) in [JustOptimize/return-ShowHiddenChannels](https://github.com/JustOptimize/return-ShowHiddenChannels)
+1. 🚀 Published release [New upd](https://github.com/soudblox/nichdant-revanced/releases/tag/new) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
+2. 🚀 Published release [Temni](https://github.com/soudblox/nichdant-revanced/releases/tag/5) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
