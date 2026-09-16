@@ -20,7 +20,7 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [New upd](https://github.com/soudblox/nichdant-revanced/releases/tag/new) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
+1. ❗ Opened issue [#94](https://github.com/Spotui/Spotui/issues/94) in [Spotui/Spotui](https://github.com/Spotui/Spotui)
 2. 🚀 Published release [Temni](https://github.com/soudblox/nichdant-revanced/releases/tag/5) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
 <!--END_SECTION:activity-->
 
