@@ -20,8 +20,8 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/Spotui/Spotui/issues/94) in [Spotui/Spotui](https://github.com/Spotui/Spotui)
-2. 🚀 Published release [Temni](https://github.com/soudblox/nichdant-revanced/releases/tag/5) in [soudblox/nichdant-revanced](https://github.com/soudblox/nichdant-revanced)
+1. 🗣 Commented on [#389](https://github.com/kushagrasinghx/BitChord/issues/389#issuecomment-5847108083) in [kushagrasinghx/BitChord](https://github.com/kushagrasinghx/BitChord)
+2. ❗ Opened issue [#94](https://github.com/Spotui/Spotui/issues/94) in [Spotui/Spotui](https://github.com/Spotui/Spotui)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
