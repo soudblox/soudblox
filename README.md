@@ -20,8 +20,8 @@ Sex: Male.
 
 ### Github Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#5](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper/issues/5) in [anotherRandomPersonlol/Sketchfab-Ripper](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper)
-2. ❗ Opened issue [#5](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper/issues/5) in [anotherRandomPersonlol/Sketchfab-Ripper](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper)
+1. 🔒 Closed issue [#5](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper/issues/5) in [anotherRandomPersonlol/Sketchfab-Ripper](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper)
+2. ℹ️ Labeled issue [#5](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper/issues/5) in [anotherRandomPersonlol/Sketchfab-Ripper](https://github.com/anotherRandomPersonlol/Sketchfab-Ripper)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
